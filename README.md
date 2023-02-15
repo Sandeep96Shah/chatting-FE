@@ -1,5 +1,8 @@
 # Chatting App
-* This application is build to connect perople.
+* This application is build to connect people. Where users can find friends and talk with them and get to know each other better.
+
+## Description
+* Backend is deployed using aws ec2 instance and [Click here for Backend Repo](https://github.com/Sandeep96Shah/chatting)
 
 ## Deployed
 * [Click Here](http://13.233.24.54:8000/)
